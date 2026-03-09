@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"D:\Mes docs\SEECS 04\Protocole de communication\Projets\MCP23X17\SPI\code\MyProject.mcppi" -SP"D:\MicroC\mikroC PRO for PIC\Defs\" -SP"D:\MicroC\mikroC PRO for PIC\Uses\P16\" -SP"D:\Mes docs\SEECS 04\Protocole de communication\Projets\MCP23X17\SPI\code\" -IP"D:\MicroC\mikroC PRO for PIC\Uses\P16\" "MyProject.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	MyProject.c
+diagnostics: 73	123	Compiled Successfully	MyProject.c
+hint: 10	1164	Variable 'receive_data' has been eliminated by optimizer	MyProject.c
+hint: 37	1164	Variable 'receive' has been eliminated by optimizer	MyProject.c
+diagnostics: 0	127	All files Compiled in 78 ms	 
+hint: 0	1144	Used RAM (bytes): 7 (2%)  Free RAM (bytes): 345 (98%)	Used RAM (bytes): 7 (2%)  Free RAM (bytes): 345 (98%)
+hint: 0	1144	Used ROM (program words): 162 (2%)  Free ROM (program words): 8030 (98%)	Used ROM (program words): 162 (2%)  Free ROM (program words): 8030 (98%)
+diagnostics: 0	125	Project Linked Successfully	MyProject.mcppi
+diagnostics: 0	128	Linked in 0 ms	 
+diagnostics: 0	129	Project 'MyProject.mcppi' completed: 219 ms	 
+diagnostics: 0	103	Finished successfully: 09 mars 2026, 22:16:30	MyProject.mcppi

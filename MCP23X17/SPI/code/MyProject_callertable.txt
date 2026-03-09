@@ -1,0 +1,7 @@
+main
+	spi_init
+	spiMCP_send
+		spi_send
+	spiMCP_read
+		spi_send
+		spi_read
