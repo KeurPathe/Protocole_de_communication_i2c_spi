@@ -13,8 +13,8 @@ Le MCP23X17 (famille comprenant le MCP23017 pour i2c et le MCP23S17 pour spi) es
 
 Dans ce projet :
 
-les ports A et B du MCP23X17 sont configurés en sortie pour envoyer des données vers des LEDs connectées aux ports A et B
+ -les ports A et B du MCP23X17 sont configurés en sortie pour envoyer des données vers des LEDs connectées aux ports A et B
 
-les ports du MCP23X17 sont ensuite lus, et les données sont affichées sur les ports du PIC16F877A
+ -les ports du MCP23X17 sont ensuite lus, et les données sont affichées sur les ports du PIC16F877A
 
 Ce projet simple permet de comprendre le fonctionnement bas niveau des protocoles I²C et SPI.
