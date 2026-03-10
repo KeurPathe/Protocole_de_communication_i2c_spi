@@ -1,6 +1,6 @@
 # Protocole_de_communication_i2c_spi
 
-**Ce repo a pour objectif de mieux comprendre les protocoles de communication i2c et spi.
+** Ce repo a pour objectif de mieux comprendre les protocoles de communication i2c et spi.
 
 Dans les dossiers SPI et I2C, vous trouverez :
 
