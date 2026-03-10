@@ -20,6 +20,6 @@ Dans ce projet :
 Ce projet simple permet de comprendre le fonctionnement bas niveau des protocoles I²C et SPI.
 
 
-<img width="596" height="281" alt="spi" src="https://github.com/user-attachments/assets/dc2b5b63-c775-418a-a250-0b0edc1083ae" />
-<img width="629" height="317" alt="i2c" src="https://github.com/user-attachments/assets/fa5bbf36-3995-46e3-b25e-253dded2a9db" />
+<img width="550" height="250" alt="spi" src="https://github.com/user-attachments/assets/dc2b5b63-c775-418a-a250-0b0edc1083ae" />
+<img width="550" height="250" alt="i2c" src="https://github.com/user-attachments/assets/fa5bbf36-3995-46e3-b25e-253dded2a9db" />
 
