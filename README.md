@@ -18,3 +18,8 @@ Dans ce projet :
  -les ports du MCP23X17 sont ensuite lus, et les données sont affichées sur les ports du PIC16F877A
 
 Ce projet simple permet de comprendre le fonctionnement bas niveau des protocoles I²C et SPI.
+
+
+<img width="596" height="281" alt="spi" src="https://github.com/user-attachments/assets/dc2b5b63-c775-418a-a250-0b0edc1083ae" />
+<img width="629" height="317" alt="i2c" src="https://github.com/user-attachments/assets/fa5bbf36-3995-46e3-b25e-253dded2a9db" />
+
